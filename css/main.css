@@ -94,8 +94,22 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+    background-size: cover;
+    background-image: url('../img/bg1.jpg');
+}
 
-
+.float {
+    background-color: white;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px
+}
 
 
 
