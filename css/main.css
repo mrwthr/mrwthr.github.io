@@ -103,14 +103,23 @@ textarea {
     background-image: url('../img/bg2.jpg');
     background-position: center;
 }
-
+#id {
+    min-width: 200px;
+}
 path {
-    fill: blue;
+    fill: white;
+}​
+stroke {
+    fill: white;
 }​
 
+.space {
+    height: 60%;
+}
 .float {
     background-color: white;
     margin: 0 auto;
+    height: 200px;
     width: 200px;
     padding: 12px;
     border-radius: 5px;
