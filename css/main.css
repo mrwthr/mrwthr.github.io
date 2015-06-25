@@ -104,6 +104,10 @@ textarea {
     background-position: center;
 }
 
+path {
+    fill: blue;
+}​
+
 .float {
     background-color: white;
     margin: 0 auto;
